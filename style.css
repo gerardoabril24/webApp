@@ -10,7 +10,7 @@
     cursor: pointer;
 }
 
-.button4 {background-color: #0000ff;} /* Blue */
+.button4 {background-color: #0000ff; color: black;} /* Blue */
 .button1 {background-color: #00FF00;} /* Red */ 
 .button3 {background-color: #FF0000; color: black;} /* Gray */ 
 .button2 {background-color: YELLOW;} /* Black */
